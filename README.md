@@ -1,3 +1,5 @@
+# VERSION de sauvegarde pour intégration des modifications glabales issues de Discord et d'autres sources
+
 # SurvivorMissions
 This is a modification of the PC-Game DayZ from Bohemia Interactive.
 This ReadMe contains all steps that will be necessary to run the modification on your game server and to provide following features to the gameplay and mission development at its current stage:
